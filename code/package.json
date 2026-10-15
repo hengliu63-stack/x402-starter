@@ -1,0 +1,1 @@
+{"dependencies":{"express":"^5.3.0","viem":"^2.57.4"},"description":"x402 中文上手包：本地可运行的 merchant / facilitator / client 三件套演示（x402 v2）","license":"MIT","name":"x402-starter-cn","scripts":{"client":"node client.js","demo":"bash run-demo.sh","facilitator":"node facilitator.js","merchant":"node merchant.js","testnet":"bash run-testnet.sh"},"type":"module","version":"1.0.0"}
